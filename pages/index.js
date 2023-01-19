@@ -19,6 +19,8 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
         <h1>Read <Link href="/posts/first-post">this page!</Link></h1>
+        <h1>Revisit<Link href="/">this page!</Link></h1>
+      
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
